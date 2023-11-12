@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "3e14331eff4abdef",
+    "type": "split",
+    "children": [
+      {
+        "id": "081b4534ae45284b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d83feb1d7d4fbbf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e49ef57246585446",
+    "type": "split",
+    "children": [
+      {
+        "id": "addb60820b803866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "514d0f8b0e3e6001",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2c136f0cd792c1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0128ac9b7d6a3a47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1a06228f271ccec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9860e6a61ce2474c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01bc10de2ded7fe8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e4fb2be8a35b618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12297cd5c8f1ae38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16dc415129b7ca7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "514d0f8b0e3e6001",
+  "lastOpenFiles": [
+    "README.md",
+    "English Dialoguer",
+    "CSE Fundamentals",
+    "Complete Web Development"
+  ]
+}
