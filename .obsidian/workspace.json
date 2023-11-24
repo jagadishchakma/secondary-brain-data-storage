@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "081b4534ae45284b",
+        "id": "2f36f1ad80791432",
         "type": "tabs",
         "children": [
           {
-            "id": "3d83feb1d7d4fbbf",
+            "id": "a2decdbc020139fb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "right": {
     "id": "b1a06228f271ccec",
@@ -140,9 +140,41 @@
   },
   "active": "514d0f8b0e3e6001",
   "lastOpenFiles": [
-    "README.md",
-    "English Dialoguer",
-    "CSE Fundamentals",
-    "Complete Web Development"
+    "CSE Fundamentals/DSA",
+    "CSE Fundamentals/DS",
+    "Complete Web Development/JS",
+    "CSE Fundamentals/C++/C++ Array of Objects.md",
+    "CSE Fundamentals/C++/Untitled.md",
+    "CSE Fundamentals/C++/C++ Strings Built-in Functions.md",
+    "CSE Fundamentals/C++/C++ Sort an Array.md",
+    "CSE Fundamentals/C++/C++ Strings.md",
+    "CSE Fundamentals/C++/C++ Namespace.md",
+    "CSE Fundamentals/C++/C++ OOP.md",
+    "CSE Fundamentals/C++/C++ For Loop for Array like JS.md",
+    "CSE Fundamentals/C++/C++ >> <<.md",
+    "CSE Fundamentals/C++/C++ Char Array.md",
+    "CSE Fundamentals/C++/C++ Switch Case.md",
+    "CSE Fundamentals/C++/C++ Pointers.md",
+    "CSE Fundamentals/C++/C++ Increase Size & Delete Dynamic Array.md",
+    "C++ Increase Size & Delete Dynamic Array.md",
+    "CSE Fundamentals/C++/C++ Dynamic Array.md",
+    "CSE Fundamentals/C++/C++ Dynamic Memory.md",
+    "CSE Fundamentals/C++/C++ Static vs Dynamic Memory.md",
+    "CSE Fundamentals/C++/C++ Header Files.md",
+    "CSE Fundamentals/C++/C++ Bits Header File.md",
+    "CSE Fundamentals/C++/C++ String Input & Output.md",
+    "CSE Fundamentals/C++/C++ min(), max() & swap() functions.md",
+    "CSE Fundamentals/C++/C++ If Else & Ternary Operator.md",
+    "CSE Fundamentals/C++/C++ EOF & Setprecision.md",
+    "CSE Fundamentals/C++/C++ Input & Typecasting.md",
+    "CSE Fundamentals/C++/C++ Print.md",
+    "Complete Web Development/CSS/Untitled",
+    "Complete Web Development/CSS/CSS Color",
+    "Complete Web Development/CSS/CSS Menu/CSS Modals",
+    "Complete Web Development/CSS/CSS Menu",
+    "Complete Web Development/CSS/CSS Animations",
+    "Complete Web Development/CSS/CSS Layouts",
+    "Complete Web Development/CSS/CSS Responsive",
+    "Complete Web Development/CSS/CSS Advanced"
   ]
 }
