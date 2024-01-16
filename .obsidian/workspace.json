@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2f36f1ad80791432",
+        "id": "3c9d4b94e5410269",
         "type": "tabs",
         "children": [
           {
-            "id": "a2decdbc020139fb",
+            "id": "39b8657172f13bf4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Complete Web Development 🔒/JS/JS Client/JS DOM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 399.5
   },
   "right": {
     "id": "b1a06228f271ccec",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Complete Web Development 🔒/JS/JS Client/JS DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Complete Web Development 🔒/JS/JS Client/JS DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Complete Web Development 🔒/JS/JS Client/JS DOM.md"
+              }
             }
           }
         ]
@@ -138,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "514d0f8b0e3e6001",
+  "active": "39b8657172f13bf4",
   "lastOpenFiles": [
-    "CSE Fundamentals/DSA",
-    "CSE Fundamentals/DS",
-    "Complete Web Development/JS",
-    "CSE Fundamentals/C++/C++ Array of Objects.md",
-    "CSE Fundamentals/C++/Untitled.md",
-    "CSE Fundamentals/C++/C++ Strings Built-in Functions.md",
-    "CSE Fundamentals/C++/C++ Sort an Array.md",
-    "CSE Fundamentals/C++/C++ Strings.md",
-    "CSE Fundamentals/C++/C++ Namespace.md",
-    "CSE Fundamentals/C++/C++ OOP.md",
-    "CSE Fundamentals/C++/C++ For Loop for Array like JS.md",
-    "CSE Fundamentals/C++/C++ >> <<.md",
-    "CSE Fundamentals/C++/C++ Char Array.md",
-    "CSE Fundamentals/C++/C++ Switch Case.md",
-    "CSE Fundamentals/C++/C++ Pointers.md",
-    "CSE Fundamentals/C++/C++ Increase Size & Delete Dynamic Array.md",
-    "C++ Increase Size & Delete Dynamic Array.md",
-    "CSE Fundamentals/C++/C++ Dynamic Array.md",
-    "CSE Fundamentals/C++/C++ Dynamic Memory.md",
-    "CSE Fundamentals/C++/C++ Static vs Dynamic Memory.md",
-    "CSE Fundamentals/C++/C++ Header Files.md",
-    "CSE Fundamentals/C++/C++ Bits Header File.md",
-    "CSE Fundamentals/C++/C++ String Input & Output.md",
-    "CSE Fundamentals/C++/C++ min(), max() & swap() functions.md",
-    "CSE Fundamentals/C++/C++ If Else & Ternary Operator.md",
-    "CSE Fundamentals/C++/C++ EOF & Setprecision.md",
-    "CSE Fundamentals/C++/C++ Input & Typecasting.md",
-    "CSE Fundamentals/C++/C++ Print.md",
-    "Complete Web Development/CSS/Untitled",
-    "Complete Web Development/CSS/CSS Color",
-    "Complete Web Development/CSS/CSS Menu/CSS Modals",
-    "Complete Web Development/CSS/CSS Menu",
-    "Complete Web Development/CSS/CSS Animations",
-    "Complete Web Development/CSS/CSS Layouts",
-    "Complete Web Development/CSS/CSS Responsive",
-    "Complete Web Development/CSS/CSS Advanced"
+    "2024-01-16.md",
+    "Complete Web Development 🔒/JS/JS Client/JS DOM.md",
+    "CSE Fundamentals 🔓/Programming For Problem Solving and DSA/Range Based For Loop.md",
+    "CSE Fundamentals 🔓/Programming For Problem Solving and DSA/Needs For Loop.md",
+    "CSE Fundamentals 🔓/Programming For Problem Solving and DSA/Needs Loops.md",
+    "CSE Fundamentals 🔓/STL For Programming/Array STL.md",
+    "Complete Web Development 🔒/JS/JS Fundamental Programming/JS Object Array Data Type.md",
+    "CSE Fundamentals 🔓/Programming For Problem Solving and DSA/Needs Comments.md",
+    "CSE Fundamentals 🔓/STL For Programming",
+    "CSE Fundamentals 🔓/Data Structures/DS STL Vector.md",
+    "CSE Fundamentals 🔓/Data Structures/Time Compexity - 2.md",
+    "CSE Fundamentals 🔓/Data Structures/DS Time Complexity.md",
+    "Complete Web Development 🔒/JS/JS Client/JS Window.md",
+    "CSE Fundamentals 🔓/Python",
+    "CSE Fundamentals 🔓/Networking",
+    "CSE Fundamentals 🔓/Computer",
+    "CSE Fundamentals 🔓/Algorithm",
+    "CSE Fundamentals 🔓/Database",
+    "CSE Fundamentals 🔓/Server",
+    "Complete Web Development 🔒/JS/JS Client/JS BOM.md",
+    "Complete Web Development 🔒/JS/JS Client/JS Events.md",
+    "Complete Web Development 🔒/JS/JS Client/JS Web APi.md",
+    "Complete Web Development 🔒/JS/JS Fundamental Programming/JS Built-in Objects.md",
+    "Complete Web Development 🔒/JS/JS Fundamental Programming/JS Looping Statements.md",
+    "Complete Web Development 🔒/JS/JS Fundamental Programming/JS Conditional Statements.md",
+    "Complete Web Development 🔒/JS/JS Like Programming/JS Setprecision.md",
+    "Complete Web Development 🔒/JS/JS Like Programming/JS Type Casting.md",
+    "Complete Web Development 🔒/JS/JS Like Programming/JS String Concatenation.md",
+    "Complete Web Development 🔒/JS/JS Fundamental Programming/JS Data Types.md",
+    "Complete Web Development 🔒/JS/JS Fundamental Programming/JS Operators.md",
+    "Complete Web Development 🔒/JS/JS Fundamental Programming/JS Number Data Type.md",
+    "Complete Web Development 🔒/JS/JS Fundamental Programming/JS Operations-subtraction, addition, multiplication, division.md",
+    "Complete Web Development 🔒/JS/JS Like Programming",
+    "Complete Web Development 🔒/JS/JS Like Programming.md",
+    "Complete Web Development 🔒/JS/JS Fundamental Programming",
+    "Complete Web Development 🔒/JS/JS Introduction"
   ]
 }
